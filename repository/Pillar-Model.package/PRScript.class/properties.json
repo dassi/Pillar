@@ -2,7 +2,6 @@
 	"category" : "Pillar-Model-Document",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "PRTParametrizable classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "TorstenBergmann 3/5/2015 22:02",
@@ -13,5 +12,4 @@
 	"pools" : [
 		 ],
 	"super" : "PRText",
-	"traitcomposition" : "PRTParametrizable",
 	"type" : "normal" }
