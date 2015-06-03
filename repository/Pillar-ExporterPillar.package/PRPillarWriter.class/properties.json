@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterPillar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:20",
+	"instvars" : [
+		"nesting" ],
+	"name" : "PRPillarWriter",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentWriter",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"directory" ],
+	"name" : "PRInputFileAnnotationTest",
+	"pools" : [
+		 ],
+	"super" : "PRAnnotationWith1ParameterTest",
+	"type" : "normal" }

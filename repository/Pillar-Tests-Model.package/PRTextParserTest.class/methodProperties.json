@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "DamienCassou 2/10/2014 16:33",
+		"testEscape1" : "DamienCassou 2/10/2014 16:33",
+		"testEscape2" : "DamienCassou 2/10/2014 16:33",
+		"testEscape3" : "DamienCassou 2/10/2014 16:33",
+		"testEscapedRoundTrip" : "DamienCassou 2/27/2014 11:35",
+		"testUnescape1" : "DamienCassou 2/10/2014 16:33",
+		"testUnescape2" : "DamienCassou 2/10/2014 16:33",
+		"testUnescape3" : "DamienCassou 2/10/2014 16:33" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Cli",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subconfName" ],
+	"name" : "PRWithConfigurationCommandLineHandler",
+	"pools" : [
+		 ],
+	"super" : "PRSubCommandLineHandler",
+	"type" : "normal" }

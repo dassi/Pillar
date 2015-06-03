@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"isAbstract" : "CyrilFerlicot 4/17/2015 13:54" },
+	"instance" : {
+		"goodKey1" : "CyrilFerlicot 4/23/2015 12:45",
+		"goodKey2" : "CyrilFerlicot 4/23/2015 12:45",
+		"goodParameters" : "CyrilFerlicot 4/17/2015 14:42",
+		"testParseParameters" : "CyrilFerlicot 4/17/2015 15:04",
+		"testParseWrongParameters" : "CyrilFerlicot 4/17/2015 14:42",
+		"value1" : "CyrilFerlicot 4/23/2015 12:46",
+		"value2" : "CyrilFerlicot 4/23/2015 12:46" } }

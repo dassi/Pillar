@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"mockWriterClass" : "CyrilFerlicot 3/31/2015 16:58",
+		"packageNamesUnderTest" : "CyrilFerlicot 3/31/2015 16:58",
+		"setUp" : "CyrilFerlicot 3/31/2015 16:58",
+		"testDocumentPropertiesAreAccessible" : "CyrilFerlicot 4/1/2015 18:20",
+		"testDocumentPropertiesCanBeReferencedFromTemplates" : "CyrilFerlicot 4/16/2015 09:59",
+		"testDocumentPropertiesTakePrecedence" : "CyrilFerlicot 4/1/2015 18:20",
+		"testDocumentsAreLinked" : "CyrilFerlicot 5/11/2015 16:25",
+		"testDocumentsAreTransformed" : "CyrilFerlicot 5/11/2015 16:26",
+		"testLevelIsGood" : "CyrilFerlicot 5/15/2015 03:22",
+		"testRelativePathFromFile" : "CyrilFerlicot 4/22/2015 13:57",
+		"testSubNoInfiniteRecursion" : "CyrilFerlicot 4/1/2015 18:20",
+		"testWrongTagError" : "CyrilFerlicot 4/24/2015 11:26" } }

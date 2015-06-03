@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activate" : "BenjaminVanRyseghem 1/9/2014 10:41",
+		"baseDirectory" : "BenjaminVanRyseghem 1/9/2014 11:01",
+		"createConfiguration:" : "CyrilFerlicot 4/1/2015 18:20",
+		"error:" : "DamienCassou 12/11/2013 16:34",
+		"errorMissingParameter:" : "DamienCassou 1/8/2014 11:13",
+		"readConfigurationFromFile:" : "CyrilFerlicot 4/1/2015 18:20" } }

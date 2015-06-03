@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"adaptParameters:" : "CyrilFerlicot 4/17/2015 11:11",
+		"checkParameterAt:into:" : "CyrilFerlicot 4/14/2015 14:16",
+		"tag" : "CyrilFerlicot 4/8/2015 13:23" },
+	"instance" : {
+		"accept:" : "CyrilFerlicot 4/9/2015 12:48",
+		"errorFileNotFound:" : "CyrilFerlicot 4/9/2015 13:16",
+		"fileWithConfiguration:" : "CyrilFerlicot 4/23/2015 17:27",
+		"parseFile:withConfiguration:" : "CyrilFerlicot 4/20/2015 16:01" } }

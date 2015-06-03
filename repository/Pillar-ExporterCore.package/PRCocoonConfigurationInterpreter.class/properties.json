@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterCore-Configuration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 3/31/2015 10:25",
+	"instvars" : [
+		 ],
+	"name" : "PRCocoonConfigurationInterpreter",
+	"pools" : [
+		 ],
+	"super" : "CCSTONConfigurationInterpreter",
+	"type" : "normal" }

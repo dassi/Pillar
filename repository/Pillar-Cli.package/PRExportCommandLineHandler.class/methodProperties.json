@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"commandName" : "DamienCassou 12/11/2013 15:37" },
+	"instance" : {
+		"activate" : "BenjaminVanRyseghem 1/9/2014 11:06",
+		"export" : "CyrilFerlicot 3/31/2015 11:22",
+		"parseInputFiles" : "BenjaminVanRyseghem 1/9/2014 11:02",
+		"printConfiguration" : "DamienCassou 12/11/2013 16:24" } }

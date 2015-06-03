@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/20/2015 14:07",
+	"instvars" : [
+		 ],
+	"name" : "PRAnchorOfSection",
+	"pools" : [
+		 ],
+	"super" : "PRTransformer",
+	"type" : "normal" }

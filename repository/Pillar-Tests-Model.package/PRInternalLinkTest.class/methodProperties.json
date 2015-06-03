@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"referenceString" : "lr 3/9/2006 11:31",
+		"testAnchor" : "lr 3/9/2006 11:31",
+		"testEqualAnchor" : "lr 3/9/2006 11:31",
+		"testIsInternal" : "lr 3/30/2009 21:35",
+		"testParseAnchoredEmbedded" : "lr 2/7/2007 15:18",
+		"testParseAnchoredReferenced" : "lr 2/7/2007 15:17",
+		"testParseEverything" : "lr 4/5/2007 14:33",
+		"testTitle" : "lr 10/20/2006 11:45" } }

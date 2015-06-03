@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/28/2015 15:32",
+	"instvars" : [
+		 ],
+	"name" : "PRFigure",
+	"pools" : [
+		 ],
+	"super" : "PRReference",
+	"type" : "normal" }

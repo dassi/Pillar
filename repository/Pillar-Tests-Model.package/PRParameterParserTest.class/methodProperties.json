@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testParseParameters" : "CyrilFerlicot 4/13/2015 22:56",
+		"testParseParametersEmpty" : "CyrilFerlicot 4/13/2015 22:56",
+		"testParseParametersEscaped" : "CyrilFerlicot 4/13/2015 22:56" } }

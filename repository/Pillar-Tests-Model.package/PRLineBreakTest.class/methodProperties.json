@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isAbstract" : "lr 12/9/2007 09:24" },
+	"instance" : {
+		"actualClass" : "lr 12/9/2007 09:24",
+		"testParseOneEmptyLine" : "CyrilFerlicot 4/7/2015 17:19",
+		"testParseTreeLines" : "CyrilFerlicot 4/7/2015 17:19",
+		"testParseTwoEmptyLines" : "CyrilFerlicot 4/7/2015 17:19",
+		"testParseTwoLines" : "CyrilFerlicot 4/7/2015 17:20" } }

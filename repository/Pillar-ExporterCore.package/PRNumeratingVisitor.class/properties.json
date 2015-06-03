@@ -1,0 +1,19 @@
+{
+	"category" : "Pillar-ExporterCore-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"configuration",
+		"figureCounter",
+		"topLevelNumerate",
+		"scriptCounter",
+		"headerCounter",
+		"anchorsMapping" ],
+	"name" : "PRNumeratingVisitor",
+	"pools" : [
+		 ],
+	"super" : "PRVisitor",
+	"type" : "normal" }

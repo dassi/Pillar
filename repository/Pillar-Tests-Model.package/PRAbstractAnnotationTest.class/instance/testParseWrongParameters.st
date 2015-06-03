@@ -1,0 +1,3 @@
+tests
+testParseWrongParameters
+	^ self subclassResponsibility

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"expectedFailures" : "lr 7/13/2011 11:50",
+		"testCount" : "lr 3/21/2006 18:43",
+		"testParseBasic" : "lr 4/5/2007 14:34",
+		"testParseSquare" : "CyrilFerlicot 4/7/2015 16:55",
+		"testParseTriangle" : "CyrilFerlicot 4/7/2015 16:55",
+		"testParseWithPreformattedAndLinkWithParameters" : "damiencassou 7/23/2009 16:35" } }

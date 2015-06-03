@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfPillar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfPillar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

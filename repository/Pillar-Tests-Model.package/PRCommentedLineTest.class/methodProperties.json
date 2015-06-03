@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClass" : "DamienCassou 3/5/2014 17:14",
+		"testParseBasic" : "DamienCassou 3/5/2014 17:17",
+		"testParseDontInterruptLists" : "CyrilFerlicot 4/7/2015 17:21",
+		"testParseDontParseContent" : "DamienCassou 3/5/2014 17:23" } }

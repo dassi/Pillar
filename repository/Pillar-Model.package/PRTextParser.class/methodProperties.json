@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"escape:" : "DamienCassou 2/10/2014 16:25",
+		"escape:all:" : "DamienCassou 2/10/2014 16:25",
+		"escape:using:" : "DamienCassou 2/10/2014 16:25",
+		"escapeMarkup:" : "DamienCassou 2/10/2014 16:25",
+		"parseString:" : "DamienCassou 2/10/2014 16:30",
+		"unescape:" : "DamienCassou 2/10/2014 16:25" },
+	"instance" : {
+		"continueParsingWith:" : "CyrilFerlicot 4/8/2015 13:10",
+		"documentParser:" : "DamienCassou 2/10/2014 11:41",
+		"extractDataFrom:" : "DamienCassou 2/10/2014 16:30",
+		"handleNoEndMarkupFoundIn:" : "DamienCassou 2/10/2014 16:32",
+		"initialize" : "DamienCassou 2/10/2014 14:55",
+		"parse:" : "DamienCassou 2/10/2014 16:30",
+		"setStream:" : "DamienCassou 2/10/2014 16:31" } }

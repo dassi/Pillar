@@ -1,0 +1,3 @@
+helpers
+value
+	self subclassResponsibility

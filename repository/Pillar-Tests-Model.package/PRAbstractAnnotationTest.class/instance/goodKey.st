@@ -1,0 +1,3 @@
+helpers
+goodKey
+	self subclassResponsibility

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testParseEmptyLineAtBeginning" : "CyrilFerlicot 4/7/2015 16:51",
+		"testParseOneLine" : "lr 12/9/2007 09:38",
+		"testParseThreeEmptyLines" : "CyrilFerlicot 4/7/2015 16:52",
+		"testParseTwoConsecutiveNonTextLines" : "CyrilFerlicot 4/7/2015 16:52",
+		"testParseTwoEmptyLines" : "CyrilFerlicot 4/7/2015 16:52" } }

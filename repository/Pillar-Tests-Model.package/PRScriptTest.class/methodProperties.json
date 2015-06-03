@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isAbstract" : "DamienCassou 1/8/2014 17:57" },
+	"instance" : {
+		"actualClass" : "DamienCassou 1/8/2014 17:57",
+		"testEqualScript" : "CyrilFerlicot 4/10/2015 11:00",
+		"testEqualScriptWithLanguage" : "CyrilFerlicot 4/10/2015 11:01",
+		"testHash" : "CyrilFerlicot 4/7/2015 14:09",
+		"testParseLanguage" : "DamienCassou 1/10/2014 16:13",
+		"testParseRealLanguage" : "CyrilFerlicot 4/8/2015 13:08",
+		"testParseSimple" : "CyrilFerlicot 4/7/2015 17:51",
+		"testParseSimpleOn1Line" : "DamienCassou 6/3/2014 11:36",
+		"testParseWithSimpleCaption" : "CyrilFerlicot 4/7/2015 17:22" } }

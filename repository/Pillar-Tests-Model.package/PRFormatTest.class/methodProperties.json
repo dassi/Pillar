@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"otherClass" : "lr 4/5/2007 16:08",
+		"testParseBasic" : "lr 4/5/2007 15:37",
+		"testParseEnd" : "lr 4/5/2007 14:32",
+		"testParseEscaped" : "DamienCassou 2/10/2014 16:31",
+		"testParseIncomplete" : "DamienCassou 2/10/2014 16:31",
+		"testParseMany" : "lr 4/5/2007 14:32",
+		"testParseNested" : "lr 4/5/2007 16:06",
+		"testParseNestedTight" : "lr 12/20/2007 14:36" } }
