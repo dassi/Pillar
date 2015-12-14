@@ -1,3 +1,3 @@
 protected
 aboutClass
-	^ PRInputFileAnnotation 
+	^ PRInputFileAnnotation

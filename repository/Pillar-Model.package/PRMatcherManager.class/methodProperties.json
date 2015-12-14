@@ -1,7 +1,6 @@
 {
 	"class" : {
 		"buildLineMatcher" : "DamienCassou 2/10/2014 11:54",
-		"buildTextMatcher" : "CyrilFerlicot 4/28/2015 13:02",
 		"default" : "DamienCassou 2/10/2014 13:18",
 		"findFirst:at:in:" : "DamienCassou 2/10/2014 16:26",
 		"findFirstMarkup:in:" : "DamienCassou 2/10/2014 16:26",

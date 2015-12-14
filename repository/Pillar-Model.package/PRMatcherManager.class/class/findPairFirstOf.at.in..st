@@ -8,4 +8,4 @@ findPairFirstOf: anArray at: anInteger in: aString
 		index := self findFirst: each at: anInteger in: aString.
 		(0 < index and: [ index < minIndex ])
 			ifTrue: [ minIndex := index. minMarkup := each ] ].
-	^ minIndex -> minMarkup 
+	^ minIndex -> minMarkup
