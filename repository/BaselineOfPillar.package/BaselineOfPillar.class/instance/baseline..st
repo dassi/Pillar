@@ -6,7 +6,6 @@ baseline: spec
   self
     grease: spec;
     ston: spec;
-    cocoon: spec;
     port: spec.	"mustache: spec;"
   spec
     for: #'common'
@@ -18,7 +17,7 @@ baseline: spec
         package: 'Pillar-Tests-Model'
           with: [ spec requires: #('Pillar-Model' 'Pillar-ExporterPillar' 'Pillar-ExporterText') ];
         package: 'Pillar-ExporterCore'
-          with: [ spec requires: #('Pillar-Model' 'Cocoon') ];
+          with: [ spec requires: #('Pillar-Model') ];
         package: 'Pillar-ExporterMarkdown'
           with: [ spec requires: #('Pillar-ExporterCore') ];
         package: 'Pillar-ExporterLaTeX'
