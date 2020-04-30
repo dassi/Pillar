@@ -10,5 +10,5 @@
 	"name" : "PRCocoonConfiguration",
 	"pools" : [
 		 ],
-	"super" : "CCConfiguration",
+	"super" : "Object",
 	"type" : "normal" }
